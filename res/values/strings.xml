@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CursorOps</string>
+    <string name="service_label">CursorOps Mouse Engine</string>
+    <string name="accessibility_label">CursorOps Overlay &amp; Shortcuts</string>
+    <string name="accessibility_description">Renders custom AMOLED neon mouse cursors and click ripples, and maps right and middle mouse buttons to Back, Home, and Recents.</string>
+</resources>
